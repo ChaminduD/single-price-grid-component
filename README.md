@@ -29,8 +29,8 @@ Users should be able to:
 
 ### Links
 
-- Solution URL: [Solution URL here](https://your-solution-url.com)
-- Live Site URL: [Live site URL here](https://your-live-site-url.com)
+- Solution URL: [Solution URL here](https://www.frontendmentor.io/solutions/responsive-single-price-grid-using-flexbox-css-grid-uLEgFln-I_)
+- Live Site URL: [Live site URL here](https://chamindud.github.io/single-price-grid-component/)
 
 ## My process
 
